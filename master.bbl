@@ -1,0 +1,472 @@
+\begin{thebibliography}{}
+
+\bibitem[Amig{\'o} et~al., 2009]{Amigo2009}
+Amig{\'o}, E., Gonzalo, J., Artiles, J., and Verdejo, F. (2009).
+\newblock A comparison of extrinsic clustering evaluation metrics based on
+  formal constraints.
+\newblock {\em Information Retrieval}, 12(4):461--486.
+
+\bibitem[Ananthakrishna et~al., 2002]{Ananthakrishna}
+Ananthakrishna, R., Chaudhuri, S., and Ganti, V. (2002).
+\newblock Eliminating fuzzy duplicates in data warehouses.
+\newblock In {\em VLDB}. VLDB Endowment.
+
+\bibitem[Barnes, 2015]{Barnes15}
+Barnes, M. (2015).
+\newblock A practioner's guide to evaluating entity resolution results.
+\newblock {\em CoRR}, abs/1509.04238.
+
+\bibitem[Bhattacharya and Getoor, 2004]{Bhattacharya}
+Bhattacharya, I. and Getoor, L. (2004).
+\newblock Iterative record linkage for cleaning and integration.
+\newblock In {\em Proceedings of the 9th ACM SIGMOD Workshop on Research Issues
+  in Data Mining and Knowledge Discovery}, DMKD '04, pages 11--18, New York,
+  NY, USA. ACM.
+
+\bibitem[Bilenko et~al., 2003]{Bilenko}
+Bilenko, M., Mooney, R., Cohen, W., Ravikumar, P., and Fienberg, S. (2003).
+\newblock Adaptive name matching in information integration.
+\newblock {\em IEEE Intelligent Systems}, 18(5):16--23.
+
+\bibitem[Bitton and DeWitt, 1983]{bitton}
+Bitton, D. and DeWitt, D.~J. (1983).
+\newblock Duplicate record elimination in large data files.
+\newblock {\em ACM Transactions on database systems (TODS)}, 8(2):255--265.
+
+\bibitem[Breiman, 2001]{breiman2001random}
+Breiman, L. (2001).
+\newblock Random forests.
+\newblock {\em {Machine Learning}}, 45(1):5--32.
+
+\bibitem[Breiman et~al., 1984]{cart84}
+Breiman, L., Friedman, J., Olshen, R., and Stone, C. (1984).
+\newblock {\em {Classification and Regression Trees}}.
+\newblock Wadsworth and Brooks, Monterey, CA.
+
+\bibitem[Buitinck et~al., 2013]{scikitlearnAPI}
+Buitinck, L., Louppe, G., Blondel, M., Pedregosa, F., Mueller, A., Grisel, O.,
+  Niculae, V., Prettenhofer, P., Gramfort, A., Grobler, J., Layton, R.,
+  VanderPlas, J., Joly, A., Holt, B., and Varoquaux, G. (2013).
+\newblock {API} design for machine learning software: experiences from the
+  {Scikit-learn} project.
+\newblock {\em CoRR}, abs/1309.0238.
+
+\bibitem[{CERN Human Resource Department}, 2014]{cps}
+{CERN Human Resource Department} (2014).
+\newblock {CERN} personnel statistics 2014.
+
+\bibitem[Chin et~al., 2014]{chin14a}
+Chin, W.-S., Zhuang, Y., Juan, Y.-C., Wu, F., Tung, H.-Y., Yu, T., Wang, J.-P.,
+  Chang, C.-X., Yang, C.-P., Chang, W.-C., Huang, K.-H., Kuo, T.-M., Lin,
+  S.-W., Lin, Y.-S., Lu, Y.-C., Su, Y.-C., Wei, C.-K., Yin, T.-C., Li, C.-L.,
+  Lin, T.-W., Tsai, C.-H., Lin, S.-D., Lin, H.-T., and Lin, C.-J. (2014).
+\newblock Effective string processing and matching for author disambiguation.
+\newblock {\em Journal of Machine Learning Research}, 15:3037--3064.
+
+\bibitem[Chollet, 2015]{chollet2015}
+Chollet, F. (2015).
+\newblock {Keras}.
+\newblock \url{https://github.com/fchollet/keras}.
+
+\bibitem[Culotta et~al., 2007]{culotta2007author}
+Culotta, A., Kanani, P., Hall, R., Wick, M., and McCallum, A. (2007).
+\newblock Author disambiguation using error-driven machine learning with a
+  ranking loss function.
+\newblock In {\em Sixth International Workshop on Information Integration on
+  the Web (IIWeb-07)}.
+
+\bibitem[Dantzig, 1998]{simplex}
+Dantzig, G. (1998).
+\newblock {\em Linear Programming and Extensions}.
+\newblock Princeton University Press.
+
+\bibitem[{ECMA International}, 2011]{EcmaScript}
+{ECMA International} (2011).
+\newblock {\em Standard ECMA-262 - ECMAScript Language Specification}.
+\newblock 5.1 edition.
+
+\bibitem[Esperidi{\~a}o et~al., 2014]{Esperidiao}
+Esperidi{\~a}o, L. V.~B., Ferreira, A.~A., Laender, A.~H., Gon{\c{c}}alves,
+  M.~A., Gomes, D.~M., Tavares, A.~I., and de~Assis, G.~T. (2014).
+\newblock Reducing fragmentation in incremental author name disambiguation.
+\newblock {\em Journal of Information and Data Management}, 5(3):293.
+
+\bibitem[Ester et~al., 1998]{ester1998incremental}
+Ester, M., Kriegel, H.-P., Sander, J., Wimmer, M., and Xu, X. (1998).
+\newblock Incremental clustering for mining in a data warehousing environment.
+\newblock In {\em Proceedings of the 24rd International Conference on Very
+  Large Data Bases}, VLDB '98, pages 323--333, San Francisco, CA, USA. Morgan
+  Kaufmann Publishers Inc.
+
+\bibitem[Fan et~al., 2011]{fan2011graph}
+Fan, X., Wang, J., Pu, X., Zhou, L., and Lv, B. (2011).
+\newblock On graph-based name disambiguation.
+\newblock {\em Journal of Data and Information Quality (JDIQ)}, 2(2):10.
+
+\bibitem[Fellegi and Sunter, 1969]{fellegi}
+Fellegi, I.~P. and Sunter, A.~B. (1969).
+\newblock A theory for record linkage.
+\newblock {\em Journal of the American Statistical Association}, 64:1183--1210.
+
+\bibitem[Fernandes, 2014]{figurerise}
+Fernandes, J. (2014).
+\newblock Authorship trends in software engineering.
+\newblock {\em Scientometrics}, 101(1):257--271.
+
+\bibitem[Ferreira et~al., 2012]{Ferreira:survey}
+Ferreira, A.~A., Gon\c{c}alves, M.~A., and Laender, A.~H. (2012).
+\newblock A brief survey of automatic methods for author name disambiguation.
+\newblock {\em SIGMOD Rec.}, 41(2):15--26.
+
+\bibitem[Ferreira et~al., 2014]{ferreira2014disambiguating}
+Ferreira, A.~A., Gon\c{c}alves, M.~A., and Laender, A.~H. (2014).
+\newblock Disambiguating author names using minimum bibliographic information.
+\newblock {\em World Digital Libraries - An international journal},
+  7(1):71--84.
+
+\bibitem[Ferreira et~al., 2010]{ferreira2010effective}
+Ferreira, A.~A., Veloso, A., Gon{\c{c}}alves, M.~A., and Laender, A.~H. (2010).
+\newblock Effective self-training author name disambiguation in scholarly
+  digital libraries.
+\newblock In {\em Proceedings of the 10th annual joint conference on Digital
+  libraries}, pages 39--48. ACM, ACM.
+
+\bibitem[Freund and Schapire, 1999]{freund99ashort}
+Freund, Y. and Schapire, R. (1999).
+\newblock A short introduction to boosting.
+\newblock {\em Journal-Japanese Society For Artificial Intelligence},
+  14(771-780):1612.
+
+\bibitem[Friedman, 2001]{friedman2001greedy}
+Friedman, J.~H. (2001).
+\newblock Greedy function approximation: a gradient boosting machine.
+\newblock {\em Annals of statistics}, pages 1189--1232.
+
+\bibitem[Ganesh et~al., 2016]{author2vec}
+Ganesh, J., Soumyajit, G., Manish, G., Vasudeva, V., and Vikram, P. (2016).
+\newblock Author2vec: Learning author representations by combining content and
+  link information.
+\newblock In {\em The 25th International World Wide Web Conference (WWW 2016)}.
+  ACM.
+
+\bibitem[Gatenby and MacEwan, 2011]{isni}
+Gatenby, J. and MacEwan, A. (2011).
+\newblock {ISNI: A new system for name identification}.
+\newblock {\em Information Standards Quarterly}, 23(3).
+
+\bibitem[Guyon et~al., 2002]{Guyon2002}
+Guyon, I., Weston, J., Barnhill, S., and Vapnik, V. (2002).
+\newblock Gene selection for cancer classification using support vector
+  machines.
+\newblock {\em Machine Learning}, 46(1):389--422.
+
+\bibitem[Haak et~al., 2012]{orcid}
+Haak, L.~L., Fenner, M., Paglione, L., Pentz, E., and Ratner, H. (2012).
+\newblock {ORCID: a system to uniquely identify researchers}.
+\newblock {\em Learned Publishing}, 25(4):259--264.
+
+\bibitem[Han et~al., 2004]{han2004two}
+Han, H., Giles, L., Zha, H., Li, C., and Tsioutsiouliklis, K. (2004).
+\newblock Two supervised learning approaches for name disambiguation in author
+  citations.
+\newblock In {\em Digital Libraries, 2004. Proceedings of the 2004 Joint
+  ACM/IEEE Conference on}, pages 296--305. IEEE, ACM.
+
+\bibitem[Hern\'{a}ndez and Stolfo, 1995]{Hernandez:1995:MPL:223784.223807}
+Hern\'{a}ndez, M.~A. and Stolfo, S.~J. (1995).
+\newblock The merge/purge problem for large databases.
+\newblock In {\em Proceedings of the 1995 ACM SIGMOD International Conference
+  on Management of Data}, SIGMOD '95, pages 127--138, New York, NY, USA. ACM.
+
+\bibitem[Huang et~al., 2006]{huang2006efficient}
+Huang, J., Ertekin, S., and Giles, C.~L. (2006).
+\newblock Efficient name disambiguation for large-scale databases.
+\newblock In {\em Knowledge Discovery in Databases: PKDD 2006}, pages 536--544.
+  Springer.
+
+\bibitem[Jaccard, 1912]{Jaccard}
+Jaccard, P. (1912).
+\newblock {The distribution of flora in the Alpine zone}.
+\newblock {\em New Phytologist}, 11(2):37--50.
+
+\bibitem[Jaro, 1989]{jaro}
+Jaro, M.~A. (1989).
+\newblock {Advances in Record-Linkage Methodology as Applied to Matching the
+  1985 Census of Tampa, Florida}.
+\newblock {\em Journal of the American Statistical Association},
+  84(406):414--420.
+
+\bibitem[Jones et~al., 01  ]{scipy}
+Jones, E., Oliphant, T., Peterson, P., et~al. (2001--).
+\newblock {SciPy}: Open source scientific tools for {Python}.
+\newblock [Online; accessed 2015-08-10].
+
+\bibitem[Kandel et~al., 2012]{PNS}
+Kandel, E.~R., Schwartz, J.~H., and Jessell, T.~M. (2012).
+\newblock {\em Principles of Neural Science, Fifth Edition (Principles of
+  Neural Science (Kandel))}.
+\newblock McGraw-Hill Education / Medical.
+
+\bibitem[Kang et~al., 2009]{kang2009co}
+Kang, I.-S., Na, S.-H., Lee, S., Jung, H., Kim, P., Sung, W.-K., and Lee, J.-H.
+  (2009).
+\newblock On co-authorship for author disambiguation.
+\newblock {\em Information Processing \& Management}, 45(1):84--97.
+
+\bibitem[Klaas, 2007]{Klaas}
+Klaas, V.~C. (2007).
+\newblock {Who's Who in the World Wide Web}: Approaches to name disambiguation.
+\newblock Master's thesis, Ludwig-Maximilians-Universitat Munich.
+
+\bibitem[Kopcke and Rahm, 2010]{Kopcke}
+Kopcke, H. and Rahm, E. (2010).
+\newblock Frameworks for entity matching: A comparison.
+\newblock {\em Data and Knowledge Engineering}, 69(2):197 -- 210.
+
+\bibitem[Kuhn, 1955]{kuhn}
+Kuhn, H.~W. (1955).
+\newblock {The Hungarian method for the assignment problem}.
+\newblock {\em Naval Research Logistics Quarterly}, 2(1-2):83--97.
+
+\bibitem[Lange and Naumann, 2011]{lange2011frequency}
+Lange, D. and Naumann, F. (2011).
+\newblock Frequency-aware similarity measures: why arnold schwarzenegger is
+  always a duplicate.
+\newblock In {\em Proceedings of the 20th ACM international conference on
+  Information and knowledge management}, pages 243--248. ACM, ACM.
+
+\bibitem[Larsen and von Ins, 2010]{therateofgrowth}
+Larsen, P. and von Ins, M. (2010).
+\newblock The rate of growth in scientific publication and the decline in
+  coverage provided by science citation index.
+\newblock {\em Scientometrics}, 84(3):575--603.
+
+\bibitem[Lee et~al., 2005]{Lee}
+Lee, D., On, B.-W., Kang, J., and Park, S. (2005).
+\newblock Effective and scalable solutions for mixed and split citation
+  problems in digital libraries.
+\newblock In {\em Proceedings of the 2Nd International Workshop on Information
+  Quality in Information Systems}, IQIS '05, pages 69--76, New York, NY, USA.
+  ACM.
+
+\bibitem[Levin et~al., 2012]{levin2012citation}
+Levin, M., Krawczyk, S., Bethard, S., and Jurafsky, D. (2012).
+\newblock Citation-based bootstrapping for large-scale author disambiguation.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 63(5):1030--1047.
+
+\bibitem[Louppe et~al., 2016]{Louppe}
+Louppe, G., Al{-}Natsheh, H.~T., Susik, M., and Maguire, E.~J. (2016).
+\newblock Ethnicity sensitive author disambiguation using semi-supervised
+  learning.
+\newblock In {\em Knowledge Engineering and Semantic Web - 7th International
+  Conference, {KESW} 2016, Prague, Czech Republic, September 21-23, 2016,
+  Proceedings}, pages 272--287. Springer Nature.
+
+\bibitem[Louppe et~al., 2013]{louppe2013understanding}
+Louppe, G., Wehenkel, L., Sutera, A., and Geurts, P. (2013).
+\newblock Understanding variable importances in forests of randomized trees.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  431--439. Curran Associates Inc.
+
+\bibitem[Malin, 2005]{malin2005unsupervised}
+Malin, B. (2005).
+\newblock Unsupervised name disambiguation via social network similarity.
+\newblock In {\em Workshop on link analysis, counterterrorism, and security},
+  volume 1401, pages 93--102.
+
+\bibitem[McCulloch and Pitts, 1943]{McCulloch1943}
+McCulloch, W.~S. and Pitts, W. (1943).
+\newblock A logical calculus of the ideas immanent in nervous activity.
+\newblock {\em The bulletin of mathematical biophysics}, 5(4):115--133.
+
+\bibitem[McRae-Spencer and Shadbolt, 2006]{mcrae2006also}
+McRae-Spencer, D.~M. and Shadbolt, N.~R. (2006).
+\newblock Also by the same author: Aktiveauthor, a citation graph approach to
+  name disambiguation.
+\newblock In {\em Proceedings of the 6th ACM/IEEE-CS joint conference on
+  Digital libraries}, pages 53--54. ACM, ACM.
+
+\bibitem[Mikolov et~al., 2013]{word2vec}
+Mikolov, T., Chen, K., Corrado, G., and Dean, J. (2013).
+\newblock Efficient estimation of word representations in vector space.
+\newblock {\em CoRR}, abs/1301.3781.
+
+\bibitem[Minsky and Papert, 1969]{Min69}
+Minsky, M. and Papert, S. (1969).
+\newblock {\em Perceptrons}.
+\newblock MIT Press, Cambridge, MA.
+
+\bibitem[Morgan and Sonquist, 1963]{morgan:1963}
+Morgan, J.~N. and Sonquist, J.~A. (1963).
+\newblock Problems in the analysis of survey data, and a proposal.
+\newblock {\em Journal of the American Statistical Association},
+  58(302):415--434.
+
+\bibitem[Newcombe et~al., 1959]{Newcombe}
+Newcombe, H.~B., Kennedy, J.~M., Axford, S.~J., and James, A.~P. (1959).
+\newblock Automatic linkage of vital records.
+\newblock {\em Science}, 130(3381):954--959.
+
+\bibitem[On et~al., 2005]{On}
+On, B.-W., Lee, D., Kang, J., and Mitra, P. (2005).
+\newblock Comparative study of name disambiguation problem using a scalable
+  blocking-based framework.
+\newblock In {\em Proceedings of the 5th ACM/IEEE-CS Joint Conference on
+  Digital Libraries}, JCDL '05, pages 344--353, New York, NY, USA. ACM.
+
+\bibitem[Pedregosa et~al., 2011]{scikitlearn}
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
+  O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J.,
+  Passos, A., Cournapeau, D., Brucher, M., Perrot, M., and Duchesnay, E.
+  (2011).
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em {Journal of Machine Learning Research}}, 12:2825--2830.
+
+\bibitem[Philips, 2000]{doublemetaphone}
+Philips, L. (2000).
+\newblock {The Double Metaphone Search Algorithm}.
+\newblock {\em C/C++ Users J.}, 18(6):38--43.
+
+\bibitem[Qian et~al., 2015]{qian2015dynamic}
+Qian, Y., Zheng, Q., Sakai, T., Ye, J., and Liu, J. (2015).
+\newblock Dynamic author name disambiguation for growing digital libraries.
+\newblock {\em Information Retrieval Journal}, 18(5):379--412.
+
+\bibitem[Quinlan, 1986]{quinlan1986induction}
+Quinlan, J.~R. (1986).
+\newblock Induction of decision trees.
+\newblock {\em Machine Learning}, 1(1):81--106.
+
+\bibitem[Roy et~al., 2013]{kdd}
+Roy, S.~B., Cock, M.~D., Mandava, V., Savanna, S., Dalessandro, B., Perlich,
+  C., Cukierski, W., and Hamner, B. (2013).
+\newblock {The Microsoft Academic Search Dataset and KDD Cup 2013 - Workshop
+  for KDD Cup 2013}.
+\newblock ACM.
+
+\bibitem[Salton et~al., 1983]{Salton1983}
+Salton, G., Fox, E.~A., and Wu, H. (1983).
+\newblock Extended boolean information retrieval.
+\newblock {\em Commun. ACM}, 26(11):1022--1036.
+
+\bibitem[Santana et~al., 2014]{santana2014combining}
+Santana, A.~F., Gon\c{c}alves, M.~A., Laender, A. H.~F., and Ferreira, A.
+  (2014).
+\newblock Combining domain-specific heuristics for author name disambiguation.
+\newblock In {\em Digital Libraries (JCDL), 2014 IEEE/ACM Joint Conference on},
+  pages 173--182. IEEE.
+
+\bibitem[Schapire, 1990]{schapire1990thestrength}
+Schapire, R.~E. (1990).
+\newblock The strength of weak learnability.
+\newblock {\em Machine Learning}, 5(2):197--227.
+
+\bibitem[Schulz et~al., 2014]{schulz2014exploiting}
+Schulz, C., Mazloumian, A., Petersen, A.~M., Penner, O., and Helbing, D.
+  (2014).
+\newblock Exploiting citation networks for large-scale author name
+  disambiguation.
+\newblock {\em EPJ Data Science}, 3(1):1--14.
+
+\bibitem[Smalheiser and Torvik, 2009]{smalheiser2009author}
+Smalheiser, N.~R. and Torvik, V.~I. (2009).
+\newblock Author name disambiguation.
+\newblock {\em Annual review of information science and technology},
+  43(1):1--43.
+
+\bibitem[Sneath and Sokal, 1973]{Sneath-Numerical-1973}
+Sneath, P. and Sokal, R. (1973).
+\newblock {\em Numerical Taxonomy. The Principles and Practice of Numerical
+  Classification}.
+\newblock Freeman.
+
+\bibitem[Sokal and Michener, 1958]{sokal1958astatistical}
+Sokal, R.~R. and Michener, C.~D. (1958).
+\newblock {A statistical method for evaluating systematic relationships}.
+\newblock {\em University of Kansas Scientific Bulletin}, 28:1409--1438.
+
+\bibitem[Song et~al., 2007]{song2007efficient}
+Song, Y., Huang, J., Councill, I.~G., Li, J., and Giles, C.~L. (2007).
+\newblock Efficient topic-based unsupervised name disambiguation.
+\newblock In {\em Proceedings of the 7th ACM/IEEE-CS joint conference on
+  Digital libraries}, pages 342--351. ACM, ACM.
+
+\bibitem[{Sprouse}, 2007]{whichwei}
+{Sprouse}, G.~D. (2007).
+\newblock {Editorial: Which Wei Wang?}
+\newblock {\em Physical Review Letters}, 99(23):230001.
+
+\bibitem[Srivastava et~al., 2014]{dropout}
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., and Salakhutdinov,
+  R. (2014).
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15:1929--1958.
+
+\bibitem[Taft, 1970]{nysiis}
+Taft, R. (1970).
+\newblock {\em Name Search Techniques}.
+\newblock Special report (New York State Identification and Intelligence
+  System). Bureau of Systems Development.
+
+\bibitem[{The National Archives}, 2007]{soundex}
+{The National Archives} (2007).
+\newblock {The Soundex Indexing System}.
+\newblock \url{https://www.archives.gov/research/census/soundex.html}.
+
+\bibitem[Tomizawa, 1971]{tomizawa}
+Tomizawa, N. (1971).
+\newblock On some techniques useful for solution of transportation network
+  problems.
+\newblock {\em Networks}, 1(2):173--194.
+
+\bibitem[Torvik and Smalheiser, 2009]{torvik2009author}
+Torvik, V.~I. and Smalheiser, N.~R. (2009).
+\newblock {Author name disambiguation in MEDLINE}.
+\newblock {\em ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  3(3):11.
+
+\bibitem[Tran et~al., 2014]{tran2014author}
+Tran, H.~N., Huynh, T., and Do, T. (2014).
+\newblock Author name disambiguation by using deep neural network.
+\newblock In {\em Intelligent information and database systems}, pages
+  123--132. Springer.
+
+\bibitem[Treeratpituk and Giles, 2009]{treeratpituk2009disambiguating}
+Treeratpituk, P. and Giles, C.~L. (2009).
+\newblock Disambiguating authors in academic publications using random forests.
+\newblock In {\em Proceedings of the 9th ACM/IEEE-CS joint conference on
+  Digital libraries}, pages 39--48. ACM, ACM.
+
+\bibitem[Vapnik and Lerner, 1963]{VapLer63}
+Vapnik, V. and Lerner, A. (1963).
+\newblock {Pattern Recognition using Generalized Portrait Method}.
+\newblock {\em Automation and Remote Control}, 24.
+
+\bibitem[Ward~Jr, 1963]{ward1963hierarchical}
+Ward~Jr, J.~H. (1963).
+\newblock Hierarchical grouping to optimize an objective function.
+\newblock {\em Journal of the American statistical association},
+  58(301):236--244.
+
+\bibitem[Whang and Garcia-Molina, 2012]{Whang}
+Whang, S.~E. and Garcia-Molina, H. (2012).
+\newblock Joint entity resolution.
+\newblock In {\em Data Engineering (ICDE), 2012 IEEE 28th International
+  Conference on}, pages 294--305. IEEE.
+
+\bibitem[Winkler, 1990]{winkler}
+Winkler, W.~E. (1990).
+\newblock {String Comparator Metrics and Enhanced Decision Rules in the
+  Fellegi-Sunter Model of Record Linkage}.
+\newblock In {\em Proceedings of the Section on Survey Research}, pages
+  354--359. ERIC.
+
+\bibitem[Zhao et~al., 2013]{Zhao:2013}
+Zhao, J., Wang, P., and Huang, K. (2013).
+\newblock {A Semi-supervised Approach for Author Disambiguation in KDD CUP
+  2013}.
+\newblock In {\em Proceedings of the 2013 KDD Cup 2013 Workshop}, KDD Cup '13,
+  pages 10:1--10:8. ACM.
+
+\end{thebibliography}

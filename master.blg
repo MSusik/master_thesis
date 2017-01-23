@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: master.aux
+The style file: apalike.bst
+Database file #1: bib.bib
+Warning--entry type for "cps" isn't style-file defined
+--line 80 of file bib.bib
+A bad cross reference---entry "Louppe"
+refers to entry "DBLP:conf/kesw/2016", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/kesw/2016"
+Warning--empty publisher in EcmaScript
+Warning--empty journal in scipy
+Warning--empty booktitle in kdd
+You've used 80 entries,
+            1935 wiz_defined-function locations,
+            978 strings with 18591 characters,
+and the built_in function-call counts, 35702 in all, are:
+= -- 3541
+> -- 1568
+< -- 64
++ -- 558
+- -- 540
+* -- 3011
+:= -- 6051
+add.period$ -- 261
+call.type$ -- 80
+change.case$ -- 663
+chr.to.int$ -- 80
+cite$ -- 83
+duplicate$ -- 1375
+empty$ -- 2436
+format.name$ -- 660
+if$ -- 7131
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 83
+newline$ -- 402
+num.names$ -- 240
+pop$ -- 608
+preamble$ -- 1
+purify$ -- 669
+quote$ -- 0
+skip$ -- 1055
+stack$ -- 0
+substring$ -- 2441
+swap$ -- 256
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 466
+warning$ -- 3
+while$ -- 286
+width$ -- 0
+write$ -- 1067
+(There was 1 error message)
